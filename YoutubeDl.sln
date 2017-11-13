@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeDl", "YoutubeDl\YoutubeDl.csproj", "{9DC88F75-AA43-48A8-9AB9-13E22C3D2F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeDlTests", "YoutubeDlTests\YoutubeDlTests.csproj", "{5D57A9B7-2BB8-47F6-A3DC-89B0F3180B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC88F75-AA43-48A8-9AB9-13E22C3D2F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC88F75-AA43-48A8-9AB9-13E22C3D2F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC88F75-AA43-48A8-9AB9-13E22C3D2F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC88F75-AA43-48A8-9AB9-13E22C3D2F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D57A9B7-2BB8-47F6-A3DC-89B0F3180B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D57A9B7-2BB8-47F6-A3DC-89B0F3180B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D57A9B7-2BB8-47F6-A3DC-89B0F3180B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D57A9B7-2BB8-47F6-A3DC-89B0F3180B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB55A01-7A9B-47DD-B3CA-93EAA2CE8BF4}
+	EndGlobalSection
+EndGlobal
